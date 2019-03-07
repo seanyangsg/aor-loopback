@@ -2,6 +2,9 @@
 
 Loopback-style REST Client for [admin-on-rest](https://github.com/marmelab/admin-on-rest), the frontend framework for building admin applications on top of REST services.
 
+## FIXED ON DELETE error
+
+
 ## Not maintained anymore
 
 With new [react-admin](), please use [loopback-component-react-admin](https://github.com/kimkha/loopback-component-react-admin) instead.

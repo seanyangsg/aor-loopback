@@ -1,8 +1,12 @@
+##This package is adopted from another project by https://github.com/kimkha/, which is not longer in support.
+##The intention of this package is to do minor patches in order for projects to run with new version of react-admin (https://github.com/marmelab/admin-on-rest). No grantee of support.
+
+##Please read following section for other/ newer/ better alternative solutions to use loopback with react-admin.
+
+===>
 # Loopback-style REST Client for Admin-on-rest
 
 Loopback-style REST Client for [admin-on-rest](https://github.com/marmelab/admin-on-rest), the frontend framework for building admin applications on top of REST services.
-
-## FIXED ON DELETE error
 
 
 ## Not maintained anymore

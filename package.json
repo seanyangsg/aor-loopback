@@ -1,6 +1,6 @@
 {
-  "name": "aor-loopback-LTS",
-  "version": "1.3.2.1",
+  "name": "aor-loopback-lts",
+  "version": "1.3.3",
   "description": "Loopback-style REST Client for Admin-on-rest, the frontend framework for building admin applications on top of REST services",
   "main": "lib/index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kimkha/aor-loopback.git"
+    "url": "git+https://github.com/seanyangsg/aor-loopback.git"
   },
   "keywords": [
     "react",
@@ -31,7 +31,7 @@
   "author": "Nguyen Kim Kha",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kimkha/aor-loopback/issues"
+    "url": "https://github.com/seanyangsg/aor-loopback.git/issues"
   },
-  "homepage": "https://github.com/kimkha/aor-loopback#readme"
+  "homepage": "https://github.com/seanyangsg/aor-loopback#readme"
 }
